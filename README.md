@@ -4,7 +4,7 @@
 
 ForkCast is an AI-powered meal planning web app that eliminates decision fatigue around cooking. Tell it what's in your kitchen, your dietary needs, and what cuisine you're craving — it generates personalized recipes with full macro breakdowns and a 7-day meal plan, all powered by Claude AI.
 
-🔗 **[Live Demo](https://hnk9919.github.io/forkcast/)** &nbsp;|&nbsp; 📁 **[GitHub Repo](https://github.com/hnk9919/forkcast)**
+🔗 **[Live Demo](https://hrushikesh-kansagara.github.io/forkcast/)** &nbsp;|&nbsp; 📁 **[GitHub Repo](https://github.com/hrushikesh-kansagara/forkcast.git)**
 
 ---
 
