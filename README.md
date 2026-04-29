@@ -55,7 +55,7 @@ You need a free Anthropic API key to use this app. Get one at [console.anthropic
 ### Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/hnk9919/forkcast.git
+git clone https://github.com/hrushikesh-kansagara/forkcast.git
 
 # Open the file directly in your browser
 open index.html
