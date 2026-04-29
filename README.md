@@ -63,7 +63,7 @@ open index.html
 No npm install. No build step. No server required. Just open the file.
 
 ### Use the Live Version
-Head to [https://hnk9919.github.io/forkcast/](https://hnk9919.github.io/forkcast/) and paste your API key when prompted. Your key is saved in your browser for future visits.
+Head to [https://hrushikesh-kansagara.github.io/forkcast/](https://hrushikesh-kansagara.github.io/forkcast/) and paste your API key when prompted. Your key is saved in your browser for future visits.
 
 ---
 
